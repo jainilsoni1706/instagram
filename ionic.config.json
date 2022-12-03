@@ -1,0 +1,8 @@
+{
+  "name": "Instagram",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "0cb0c2bc"
+}
