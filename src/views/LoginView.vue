@@ -50,7 +50,7 @@ export default defineComponent({
 
       if (this.mode === true) {
         this.theme = "dark";
-        this.logo = "<%= BASE_URL %>../../assets/icon/textdark.png";
+        this.logo = "<%= BASE_URL %>../../assets/icon/textdark.png"; 
 
       } else {
         this.theme = "light";
